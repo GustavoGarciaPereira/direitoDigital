@@ -27,3 +27,27 @@ Sanção aplicada como punição ou como reparação por uma ação julgada repr
 
 ### Regulamentação
 Conjunto de normas e disposições.
+
+
+## atividade 3
+Direito à privacidade:
+é o direito que cara cidadão tem a manter seus dados pessoais sob proteção, não sendo vazado para terceiros
+
+
+Direito de imagem e honra:
+Circular imagens com o conteudo vechatorio que denigram ou ridicurarize, materia de jornal que tenha como 
+objetivo espalhar desinformação
+
+
+Direito anonimato:
+proteção da pessoal que quer denunciar um crime, tendo o apareto legal para tal proteção,
+para garantir a liberdade de espreção.
+No entando tal aparato não pode ser usado para proteção de uma pessoa que quer realizar um crime
+
+
+Direito à informação:
+
+
+Direito ao sigilo
+Direito de igualdade
+Direito à segurança
