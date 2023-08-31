@@ -51,3 +51,11 @@ Direito à informação:
 Direito ao sigilo
 Direito de igualdade
 Direito à segurança
+
+
+
+
+
+# atividade 6
+
+## Tarefa 6: Empresa Virtual e Comércio Eletrônico
