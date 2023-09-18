@@ -112,7 +112,8 @@ Infraestrutura de Pagamento: Soluções para processar pagamentos online, como g
 
 Plano de Negócios: Uma estratégia clara para monetização, crescimento e sustentabilidade.
 
-### =====================================================================================================================
+## =====================================================================================================================
+# tarefa 8
 1. O que é e para que serve uma licença de software?
 
 O que é: Uma licença de software é um acordo legal que especifica as condições sob as quais um software pode ser usado, distribuído e, em alguns casos, modificado.
@@ -166,7 +167,7 @@ Além destas, há várias outras licenças que podem ser escolhidas, dependendo 
 
 
 # ==============================================================================================================================
-Atividade 9
+# Atividade 9
 
 Software como Obra Autoral: Glossário
 
