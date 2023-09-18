@@ -205,9 +205,26 @@ A proliferação das redes sociais, especialmente no Brasil, é fonte de numeros
 O que é o Direito a privacidade?
 O Direito a Privacidade é um direito constitucional e essencial para a vida em sociedade, que garante a segurança da vida particular e privada de qualquer indivíduo, assegurado por lei, e ele é responsável por manter em particular todos os acontecimentos da vida de uma pessoa que não caibam no aspecto público.
 
-2) Direito de imagem e honra
-3) Direito anonimato
-4) Direito à informação
-5) Direito ao sigilo
-6) Direito de igualdade
-7) Direito à segurança
+2) Direito de imagem e honra:
+   O direito de imagem é protegido pelo artigo 5o, inciso X da Constituição Federal, que o inseriu no rol dos direitos e garantias fundamentais, prevendo indenização para o caso de sua violação.
+ 
+  O Código Civil também traz regras sobre o direito de imagem e o classifica como um direito da personalidade. Em seu artigo 20, o mencionado diploma, dentre outras disposições, veda a exposição ou utilização da imagem de alguém sem permissão, caso o uso indevido atinja sua honra, boa-fama, respeito ou se destine a fins comerciais. Contudo, há situações nas quais o uso da imagem independe de autorização, quando, por exemplo, for necessário à administração da justiça ou à manutenção da ordem pública.
+   
+  Em casos mais graves, o uso indevido de imagem pode ser considerado crime, como previsto no artigo 218-C do Código Penal, que considera ilícito penal a disponibilização ou divulgação de fotos, vídeo ou imagem de cenas de sexo, nudez ou pornografia, sem consentimento da vítima.
+ 
+4) Direito anonimato:
+   O direito ao anonimato é aceito como um dos direitos de privacidade. A esfera da privacidade, por sua vez, se intersecciona com os conceitos de segurança e proteção de informação, e o direito a não ter a privacidade invadida se encontra elencado na Declaração Universal de Direitos Humanos, em seu artigo 12, que diz:
+
+"Ninguém será objeto de ingerências arbitrárias em sua vida privada, sua família, seu domicílio ou sua correspondência, nem de ataques a sua honra ou a sua reputação. Toda pessoa tem direito à proteção da lei contra tais ingerências ou ataques."
+5) Direito à informação:
+  O direito à informação representa, sob este prisma, o direito de estar a par das atuações do governo, imperativo necessário à manutenção de uma sociedade aberta e democrática2. Trata-se da possibilidade de acessar registros do Estado, fundado no próprio dever de transparência inerente à gestão pública, ou seja, independentemente de serem informações necessárias à tutela de algum outro direito do solicitante. Por certo, não se trata de legitimar abertura incondicional das bases de dados vinculadas ao Estado, mas de assegurar o acesso à informação, em plena consonância com o necessário respeito a outros direitos igualmente importantes. Mais que assegurar a liberdade de informação frente ao Estado, o direito à informação representa efetivo anteparo ao emprego indiscriminado do sigilo como supressão do controle da Administração, processo narrado por Weber3 como transformação de informações oficiais em informações secretas.
+6) Direito ao sigilo
+7) Direito de igualdade
+8) Direito à segurança
+
+
+
+
+
+
+https://www.itu.int/ITU-T/workprog/wp_rss.aspx?sg=2
