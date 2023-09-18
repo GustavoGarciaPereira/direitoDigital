@@ -112,7 +112,57 @@ Infraestrutura de Pagamento: Soluções para processar pagamentos online, como g
 
 Plano de Negócios: Uma estratégia clara para monetização, crescimento e sustentabilidade.
 
+### =====================================================================================================================
+1. O que é e para que serve uma licença de software?
 
+O que é: Uma licença de software é um acordo legal que especifica as condições sob as quais um software pode ser usado, distribuído e, em alguns casos, modificado.
+
+Para que serve: Serve para estabelecer os direitos e responsabilidades dos usuários e desenvolvedores, proteger os direitos de propriedade intelectual dos criadores e informar os usuários sobre o que eles podem e não podem fazer com o software.
+
+2. O que é Software Proprietário, Software de Domínio Público, Adware, Freeware, Shareware, Software de código aberto?
+
+Software Proprietário: É um software cujo código-fonte não é publicamente acessível e cujas cópias, distribuição e modificação são geralmente restritas e exigem a permissão (ou licença) do titular dos direitos.
+
+Software de Domínio Público: É um software que não é protegido por direitos autorais e, portanto, pode ser usado, modificado e distribuído por qualquer pessoa sem nenhuma restrição.
+
+Adware: É um software que é oferecido gratuitamente, mas que exibe anúncios para o usuário. Em alguns casos, o adware pode ser intrusivo ou comprometer a privacidade do usuário.
+
+Freeware: É um software que é disponibilizado gratuitamente para uso, mas, ao contrário do software de código aberto, o código-fonte geralmente não é disponibilizado.
+
+Shareware: É um tipo de software que é fornecido gratuitamente por um período limitado ou com funcionalidades limitadas, incentivando os usuários a comprar a versão completa.
+
+Software de Código Aberto: É um software cujo código-fonte é acessível ao público. Ele pode ser modificado e distribuído por qualquer pessoa, geralmente sob os termos de uma licença específica que mantém o código aberto.
+
+3. O que é GNU General Public License?
+
+GNU General Public License (GPL): É uma licença de software livre criada pela Free Software Foundation. Sob a GPL, qualquer pessoa pode copiar, modificar e distribuir software, desde que as modificações e o software derivado também sejam licenciados sob a GPL. É uma das licenças de código aberto mais populares e é conhecida por seu princípio de "copyleft", que garante que as modificações permaneçam abertas.
+4. O que é GNU FDL, GNU LGPL, GNU AGPL, Licença livre e Copyleft?
+
+GNU Free Documentation License (FDL): É uma licença copyleft destinada para manuais, livros didáticos e outros documentos para garantir que sejam livres e reutilizáveis.
+
+GNU Lesser General Public License (LGPL): É semelhante à GPL, mas é mais permissiva em termos de ligação com softwares proprietários. Software licenciado sob a LGPL pode ser incorporado em software proprietário sem tornar o software proprietário de código aberto.
+
+GNU Affero General Public License (AGPL): É uma variante da GPL que se destina a software que será usado na rede. Fecha a "lacuna do serviço de rede", garantindo que as modificações feitas ao software e usadas em um serviço online sejam compartilhadas de volta à comunidade.
+
+Licença Livre: Refere-se a licenças que garantem aos usuários a liberdade de executar, estudar, compartilhar e modificar o software.
+
+Copyleft: É um conceito onde o software pode ser modificado e distribuído, mas qualquer software derivado também deve ser distribuído sob os mesmos termos da licença original. É o oposto do conceito tradicional de "copyright".
+
+5. Identifique as principais licenças quando um repositório é criado no GitHub
+
+Quando um repositório é criado no GitHub, várias licenças podem ser escolhidas. Algumas das mais populares incluem:
+
+MIT License: Uma licença permissiva que permite reutilização com poucas restrições.
+
+GNU General Public License (GPL) v3.0: Uma licença copyleft que garante que as modificações também sejam de código aberto.
+
+Apache License 2.0: Permite a reutilização do código e também fornece uma concessão de direitos de patente.
+
+BSD 2-Clause e 3-Clause "New" or "Revised" License: Licenças permissivas com diferentes cláusulas sobre reutilização e reconhecimento.
+
+GNU Lesser General Public License (LGPL) v3.0: Uma licença mais permissiva que a GPL, permitindo ligação com software proprietário.
+
+Além destas, há várias outras licenças que podem ser escolhidas, dependendo das necessidades e objetivos do projeto.
 
 
 
