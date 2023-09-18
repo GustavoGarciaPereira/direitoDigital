@@ -165,5 +165,30 @@ GNU Lesser General Public License (LGPL) v3.0: Uma licença mais permissiva que 
 Além destas, há várias outras licenças que podem ser escolhidas, dependendo das necessidades e objetivos do projeto.
 
 
+# ==============================================================================================================================
+Atividade 9
 
+Software como Obra Autoral: Glossário
+
+1. Software (ou Programa de Computador): É a expressão de um conjunto organizado de instruções em linguagem natural ou codificada, contida em suporte físico de qualquer natureza, que é usada em máquinas automáticas de tratamento da informação, dispositivos, instrumentos ou equipamentos periféricos, para fazê-los funcionar de modo específico.
+
+2. Direito Autoral: Conjunto de prerrogativas conferidas por lei a alguém (o autor ou titular dos direitos) para que ele possa dispor de sua obra e utilizar-se dela, bem como permitir ou proibir sua utilização por terceiros.
+
+3. Propriedade Intelectual: Abrange direitos relativos a invenções, marcas, desenhos industriais, indicações geográficas, topografias de circuitos integrados e, em algumas legislações, também protege programas de computador e bases de dados.
+
+4. Licença de Uso: Contrato por meio do qual o detentor dos direitos autorais de um programa de computador permite que terceiros o utilizem, geralmente mediante a cobrança de licenças.
+
+5. Código-Fonte: Conjunto de instruções escritas em linguagem de programação, que, após serem compiladas, são transformadas em um programa de computador.
+
+6. Proteção Jurídica: No Brasil, o software é protegido como obra literária pela legislação de direitos autorais. Isso significa que, ao criar um software, o desenvolvedor automaticamente detém os direitos autorais sobre sua criação, independentemente de registro.
+
+7. Prazo de Proteção: No Brasil, os direitos autorais sobre software têm duração de 50 anos, contados a partir de 1º de janeiro do ano subsequente ao da sua publicação ou criação.
+
+8. Direitos Morais: Referem-se à ligação pessoal e intrínseca entre o autor e sua obra. No contexto do software, algumas disposições relacionadas aos direitos morais não são aplicáveis, mas o autor pode reivindicar a paternidade do software e se opor a alterações não autorizadas que prejudiquem sua honra ou reputação.
+
+9. Direitos Patrimoniais: Refere-se ao direito exclusivo do autor de usar, fruir e dispor de sua obra, bem como de autorizar terceiros a fazerem o mesmo.
+
+10. Violação de Direito Autoral: Refere-se à reprodução, distribuição, comunicação ao público ou transformação de software sem a devida autorização do titular dos direitos autorais.
+
+Ao criar, distribuir ou usar software, é essencial ter uma compreensão clara dos direitos autorais associados a ele. A violação desses direitos pode resultar em consequências legais significativas, tanto civis quanto penais.
 
