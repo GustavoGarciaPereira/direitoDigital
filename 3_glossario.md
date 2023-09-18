@@ -193,3 +193,21 @@ Software como Obra Autoral: Glossário
 
 Ao criar, distribuir ou usar software, é essencial ter uma compreensão clara dos direitos autorais associados a ele. A violação desses direitos pode resultar em consequências legais significativas, tanto civis quanto penais.
 
+
+# -------------------------------------------------
+
+Tarefa 5
+
+1) Direito à privacidade: 
+Os desafios que a proteção do direito à privacidade na sociedade contemporânea enfrenta são enormes. O direito à privacidade apresenta-se como uma forma de impedir que o avanço tecnológico, juntamente com o já conhecido crescimento populacional, com uma consequente ocupação territorial, pudesse violar o direito de cada um de estar com si próprio sem interferência alheia.38 
+A proliferação das redes sociais, especialmente no Brasil, é fonte de numerosas questões sobre a privacidade, que o direito ainda terá de enfrentar. As vantagens econômicas e o lucro são obtidos por meio do enfraquecimento dos direitos da personalidade.  É preciso estar atento às transformações sociais e tecnológicas, a fim do melhor tratamento sobre a matéria.39
+
+O que é o Direito a privacidade?
+O Direito a Privacidade é um direito constitucional e essencial para a vida em sociedade, que garante a segurança da vida particular e privada de qualquer indivíduo, assegurado por lei, e ele é responsável por manter em particular todos os acontecimentos da vida de uma pessoa que não caibam no aspecto público.
+
+2) Direito de imagem e honra
+3) Direito anonimato
+4) Direito à informação
+5) Direito ao sigilo
+6) Direito de igualdade
+7) Direito à segurança
